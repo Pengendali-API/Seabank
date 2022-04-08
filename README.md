@@ -5,7 +5,7 @@
 Download dan Install apk ini di HP  
 https://github.com/Pengendali-API/Seabank/releases/download/1.2.0/seabank.apk
   
-Klik yg di lingkari merah hingga verifikasi muka selesai
+### Klik yg di lingkari merah hingga verifikasi muka selesai
 
 ![1](https://github.com/Pengendali-API/Seabank/raw/main/1.jpg)    
 
@@ -13,7 +13,7 @@ Klik yg di lingkari merah hingga verifikasi muka selesai
 
 ![3](https://github.com/Pengendali-API/Seabank/raw/main/3.jpg)    
   
-Copy foto bernama faceSanpshot1.jpg di folder download ke komputer
+### Copy foto bernama faceSnapshot1.jpg di folder download ke komputer
 
 ![4](https://github.com/Pengendali-API/Seabank/raw/main/4.jpg)  
 
